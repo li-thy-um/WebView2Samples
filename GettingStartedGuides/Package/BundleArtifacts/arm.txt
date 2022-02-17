@@ -1,0 +1,2 @@
+MainPackage=C:\Users\lfen\dev\WebView2Samples\GettingStartedGuides\Package\bin\ARM\Debug\Package_1.0.4.0_ARM_Debug.appx
+SymbolPackage=C:\Users\lfen\dev\WebView2Samples\GettingStartedGuides\Package\obj\ARM\Debug\Symbols\Package_1.0.4.0_ARM_Debug.appxsym
